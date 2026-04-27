@@ -39,10 +39,10 @@ After running, you'll get:
 
 | Type | Status |
 |------|--------|
-| News sites | ✅ Works |
-| Twitter/X | ⚠️ Marked "didn't open" (needs browser) |
-| Instagram | ⚠️ Marked "didn't open" (needs login) |
-| Facebook | ⚠️ Marked "didn't open" (needs login) |
+| News sites | ✅ Works (api+selenium) |
+| Twitter/X | ✅ Works in browser (selenium) |
+| Instagram | ✅ Works in browser (selenium) |
+| Facebook | ✅ Works (selenium) |
 | bit.ly / short URLs | ✅ Auto-expands |
 
 ## Troubleshooting
