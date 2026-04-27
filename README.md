@@ -45,8 +45,5 @@ After running, you'll get:
 | Facebook | ✅ Works (selenium) |
 | bit.ly / short URLs | ✅ Auto-expands |
 
-## Troubleshooting
-
-If newspaper3k fails on a site, the script automatically falls back to basic HTML extraction.
 
 For Twitter/X/Instagram/Facebook, we'll add nodriver support in Phase 2.
